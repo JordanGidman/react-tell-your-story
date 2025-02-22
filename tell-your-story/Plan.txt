@@ -1,0 +1,40 @@
+USER STORIES -
+
+As a user i want to sign in/sign out
+As a user i want to have an account page
+As a user i want my account page to have name, image, stories, liked stories and to be able to also edit all these fields
+As a user i want to be able to write and post my own stories with a title
+As a user i want to browse and read stories
+As a user i want to filter for categories
+As a user i want to be able to search by name or genre or user
+As a user i want to be able to review a story out of 5 stars
+As a user i want to browse others profiles and see their other works
+
+FEATURES - 
+-create an account
+-write and post stories
+-read others stories
+-review others stories
+-browse for stories
+
+
+PAGES - 
+Home
+Account
+Browse
+Sign In/Up
+Story
+Profile
+CreateStory
+
+COMPONENTS - 
+Home
+Navbar
+Account
+Stories
+Search
+Story
+Profile
+SignUp
+SignIn
+CreateStory
